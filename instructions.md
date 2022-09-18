@@ -2,7 +2,7 @@
 
 In the exercises for chapters 3 through 8, you’ll develop a new version of the Town Hall website. 
 
-![complete](complete.png)
+![complete](complete2.png)
 
 
 As you develop this site, you will use this folder structure you see in the file explorer to the left. 🤏
